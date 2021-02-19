@@ -1,1 +1,1 @@
-# diving-in-typescript
+# Diving in Typescript
