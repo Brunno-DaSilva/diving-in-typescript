@@ -17,6 +17,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: #97d9e1;
   background-image: linear-gradient(0deg, #97d9e1 0%, #ececec 100%);
+  overflow: hidden;
 }
 
 .App {
@@ -31,4 +32,10 @@ body {
 .App__info span {
   font-size: 5rem;
   color: #828181;
+}
+
+.App__info #result {
+  font-size: 5rem;
+  color: #4ab1ff;
+  text-decoration: underline;
 }
